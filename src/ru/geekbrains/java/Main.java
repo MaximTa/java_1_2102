@@ -9,7 +9,7 @@ public class Main {
     static final char DOT_X = 'X';
     static final char DOT_O = 'O';
     static final char DOT_EMPTY = '.';
-    static final int DOTS_FOR_WIN = 4;
+    static final int DOTS_FOR_WIN = 4;//не довёл до ума
 
     static char[][] map;
 
